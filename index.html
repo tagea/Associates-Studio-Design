@@ -295,9 +295,7 @@
     </main>
     <footer id="footer">
         <div class="footer">
-           <div class="map">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18173.069085492585!2d-118.19721638420603!3d33.77939066315526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd313d1f2b0a4b%3A0x48cc9b293b23274c!2zMzAwIEUgT2NlYW4gQmx2ZCwgTG9uZyBCZWFjaCwgQ0EgOTA4MDIsINCh0KjQkA!5e0!3m2!1sru!2sby!4v1531640857420"  frameborder="0" style="border:0" allowfullscreen></iframe>
-            </div>
+           <div id="map" class="map"></div>
             <div class="footer-info">
                <div class="footer-brand">
                    <address class="address address_bottom">
@@ -317,6 +315,23 @@
             </div>
         </div>
     </footer>
+    
+     <script>
+         
+        function initMap() {
+            var mapCanvas = document.getElementById("map");
+            var calif = {lat: 33.7647531, lng: -118.191673};
+            var mapOptions = {
+                center: calif,
+                zoom: 12
+            };
+            var map = new google.maps.Map(mapCanvas, mapOptions);
+            var marker = new google.maps.Marker({position: calif, map: map});
+        }
+    </script>
+    <script
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA_ODJFzToLTPBmpLNdrL3ZzF4dtr2bioQ&callback=initMap">
+    </script>
 </body>
 
 </html>
