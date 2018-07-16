@@ -1,7 +1,5 @@
-# Верстка сайта HTML5
-# используется flex,
-# используется предпроцессор less
+# Верстка сайта студии дизайна предметов интерьера.
+Используется flex и предпроцессор less.
+Макет https://adobe.ly/2LbA150. 
 
-# макет https://adobe.ly/2LbA150
-
-# доступен по ссылке https://tagea.github.io/html5-dsgn/
+Доступен по ссылке https://tagea.github.io/html5-dsgn/
