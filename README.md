@@ -6,6 +6,6 @@
 
 Предусмотрена семантика HTML5.
 
-Только Desktop версия.
+Страница оптимизиорвана только для  Desktop.
 
 Web-версия https://tagea.github.io/html5-dsgn/
