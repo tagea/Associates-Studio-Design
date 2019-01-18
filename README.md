@@ -1,11 +1,11 @@
 # Associates Studio Design
 
-Макет https://adobe.ly/2LbA150. 
+Макет [ссылка на файл](https://adobe.ly/2LbA150)
 
-Используется flex и предпроцессор less.
+- Используется flex и предпроцессор less.
 
-Предусмотрена семантика HTML5.
+- Предусмотрена семантика HTML5.
 
-Страница оптимизиорвана только для  Desktop.
+- Страница оптимизиорвана только для  Desktop.
 
-Web-версия https://tagea.github.io/html5-dsgn/
+Web-версия [Associates Studio Design](https://tagea.github.io/html5-dsgn/)
