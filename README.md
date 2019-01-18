@@ -1,4 +1,4 @@
-# Assocoates Studio Design
+# Associates Studio Design
 
 Макет https://adobe.ly/2LbA150. 
 
