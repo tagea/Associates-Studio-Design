@@ -1,6 +1,6 @@
 # Associates Studio Design
 
-Макет [ссылка на файл](https://adobe.ly/2LbA150)
+Макет [ссылка на файл](https://www.dropbox.com/sh/zhg8e4mpdab5mba/AACgLVIKyJZBw3j9cKCll5Fka?dl=0)
 
 - Используется flex и предпроцессор less.
 
@@ -8,4 +8,4 @@
 
 - Страница оптимизиорвана только для  Desktop.
 
-Web-версия [Associates Studio Design](https://tagea.github.io/html5-dsgn/)
+Web-версия [Associates Studio Design](https://tagea.github.io/Associates-Studio-Design/)
